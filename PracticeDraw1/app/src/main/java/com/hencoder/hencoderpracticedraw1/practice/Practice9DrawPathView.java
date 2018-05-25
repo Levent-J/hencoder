@@ -2,7 +2,12 @@ package com.hencoder.hencoderpracticedraw1.practice;
 
 import android.content.Context;
 import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.Path;
+import android.os.Build;
 import android.support.annotation.Nullable;
+import android.support.annotation.RequiresApi;
 import android.util.AttributeSet;
 import android.view.View;
 
@@ -20,10 +25,23 @@ public class Practice9DrawPathView extends View {
         super(context, attrs, defStyleAttr);
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
 
 //        练习内容：使用 canvas.drawPath() 方法画心形
+        Paint paint = new Paint();
+        paint.setColor(Color.BLACK);
+        paint.setStyle(Paint.Style.FILL);
+        canvas.translate(700,500);
+
+        Path path = new Path();
+        path.addArc(-100,-50,0,50,-225,225);
+        path.lineTo(0,100);
+        path.moveTo(0,0);
+        path.addArc(0,-50,100,50,-180,225);
+        path.lineTo(0,100);
+        canvas.drawPath(path,paint);
     }
 }
