@@ -15,7 +15,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice10HistogramView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice10HistogramView.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice11PieChartView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice11PieChartView.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,31 +40,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="34" column="110" lean-forward="false" selection-start-line="34" selection-start-column="110" selection-end-line="34" selection-end-column="110" />
+            <state relative-caret-position="418">
+              <caret line="33" column="125" lean-forward="false" selection-start-line="33" selection-start-column="125" selection-end-line="33" selection-end-column="125" />
               <folding>
-                <element signature="e#945#970#0" expanded="true" />
-                <element signature="e#1060#1086#0" expanded="true" />
-                <element signature="e#1175#1199#0" expanded="true" />
-                <element signature="e#1287#1312#0" expanded="true" />
-                <element signature="e#1400#1424#0" expanded="true" />
-                <element signature="e#1511#1535#0" expanded="true" />
-                <element signature="e#1628#1658#0" expanded="true" />
-                <element signature="e#1750#1773#0" expanded="true" />
-                <element signature="e#1859#1883#0" expanded="true" />
+                <element signature="e#692#717#0" expanded="true" />
+                <element signature="e#807#833#0" expanded="true" />
+                <element signature="e#922#946#0" expanded="true" />
+                <element signature="e#1034#1059#0" expanded="true" />
+                <element signature="e#1147#1171#0" expanded="true" />
+                <element signature="e#1258#1282#0" expanded="true" />
+                <element signature="e#1375#1405#0" expanded="true" />
+                <element signature="e#1497#1520#0" expanded="true" />
+                <element signature="e#1606#1630#0" expanded="true" />
+                <element signature="e#1722#1751#0" expanded="true" />
+                <element signature="e#1848#1877#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Practice10HistogramView.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice10HistogramView.java">
+      <file leaf-file-name="Practice11PieChartView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice11PieChartView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+            <state relative-caret-position="479">
+              <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -1979,8 +1992,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice7DrawRoundRectView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice8DrawArcView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice9DrawPathView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice10HistogramView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice11PieChartView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2435,29 +2450,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="34" column="110" lean-forward="false" selection-start-line="34" selection-start-column="110" selection-end-line="34" selection-end-column="110" />
-          <folding>
-            <element signature="e#945#970#0" expanded="true" />
-            <element signature="e#1060#1086#0" expanded="true" />
-            <element signature="e#1175#1199#0" expanded="true" />
-            <element signature="e#1287#1312#0" expanded="true" />
-            <element signature="e#1400#1424#0" expanded="true" />
-            <element signature="e#1511#1535#0" expanded="true" />
-            <element signature="e#1628#1658#0" expanded="true" />
-            <element signature="e#1750#1773#0" expanded="true" />
-            <element signature="e#1859#1883#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice10HistogramView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice11PieChartView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hencoder/hencoderpracticedraw1/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" column="125" lean-forward="false" selection-start-line="33" selection-start-column="125" selection-end-line="33" selection-end-column="125" />
+          <folding>
+            <element signature="e#692#717#0" expanded="true" />
+            <element signature="e#807#833#0" expanded="true" />
+            <element signature="e#922#946#0" expanded="true" />
+            <element signature="e#1034#1059#0" expanded="true" />
+            <element signature="e#1147#1171#0" expanded="true" />
+            <element signature="e#1258#1282#0" expanded="true" />
+            <element signature="e#1375#1405#0" expanded="true" />
+            <element signature="e#1497#1520#0" expanded="true" />
+            <element signature="e#1606#1630#0" expanded="true" />
+            <element signature="e#1722#1751#0" expanded="true" />
+            <element signature="e#1848#1877#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
