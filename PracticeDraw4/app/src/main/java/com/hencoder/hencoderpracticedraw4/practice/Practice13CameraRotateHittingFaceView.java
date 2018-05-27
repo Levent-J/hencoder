@@ -76,16 +76,28 @@ public class Practice13CameraRotateHittingFaceView extends View {
         int centerX = point.x + bitmapWidth / 2;
         int centerY = point.y + bitmapHeight / 2;
 
-        camera.save();
-        matrix.reset();
-        camera.rotateX(degree);
-        camera.getMatrix(matrix);
-        camera.restore();
-        matrix.preTranslate(-centerX, -centerY);
-        matrix.postTranslate(centerX, centerY);
+//        camera.save();
+//        matrix.reset();
+//        camera.setLocation(0,0,-200);
+//        camera.rotateX(degree);
+//        camera.getMatrix(matrix);
+//        camera.restore();
+//        matrix.preTranslate(-centerX, -centerY);
+//        matrix.postTranslate(centerX, centerY);
+//        canvas.save();
+//        canvas.concat(matrix);
+//        canvas.drawBitmap(bitmap, point.x, point.y, paint);
+//        canvas.restore();
+
         canvas.save();
-        canvas.concat(matrix);
-        canvas.drawBitmap(bitmap, point.x, point.y, paint);
+        camera.save();
+        camera.setLocation(0,0,-800);
+        camera.rotateX(degree);
+        canvas.translate(centerX,centerY);
+        camera.applyToCanvas(canvas);
+        canvas.translate(-centerX,-centerY);
+        camera.restore();
+        canvas.drawBitmap(bitmap,point.x,point.y,paint);
         canvas.restore();
     }
 }
