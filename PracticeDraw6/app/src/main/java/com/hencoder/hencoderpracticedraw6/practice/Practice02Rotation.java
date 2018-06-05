@@ -37,6 +37,9 @@ public class Practice02Rotation extends RelativeLayout {
             @Override
             public void onClick(final View v) {
                 // // TODO 在这里处理点击事件，通过 View.animate().rotation/X/Y() 来让 View 旋转
+                imageView.animate()
+                        .rotationBy(45)
+                        .setDuration(200);
             }
         });
     }

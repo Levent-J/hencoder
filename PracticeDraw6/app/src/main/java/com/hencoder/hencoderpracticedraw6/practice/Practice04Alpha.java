@@ -7,12 +7,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
+import android.widget.Toast;
 
 import com.hencoder.hencoderpracticedraw6.R;
 
 public class Practice04Alpha extends RelativeLayout {
     Button animateBt;
     ImageView imageView;
+    float value=0;
 
     public Practice04Alpha(Context context) {
         super(context);
@@ -37,6 +39,10 @@ public class Practice04Alpha extends RelativeLayout {
             @Override
             public void onClick(final View v) {
                 // TODO 在这里处理点击事件，通过 View.animate().alpha() 来改变 View 的透明度
+                imageView.animate()
+                        .alpha(value)
+                        .setDuration(200);
+                value = Math.abs(value-1);
             }
         });
     }
