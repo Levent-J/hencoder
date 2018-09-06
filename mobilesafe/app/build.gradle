@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.guoshisp.mobilesafe"
+        minSdkVersion 8
+        targetSdkVersion 17
+
+
+//        testApplicationId "com.guoshisp.mobilesafe"
+//        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    android {
+        lintOptions {
+            checkReleaseBuilds false
+            // Or, if you prefer, you can continue to check for errors in release builds,
+            // but continue the build even when errors are found:
+            abortOnError false
+        }
+    }
+
+    android { compileOptions.encoding = "GBK" }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+}

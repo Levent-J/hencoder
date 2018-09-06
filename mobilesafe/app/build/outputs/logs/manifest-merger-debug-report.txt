@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:2:1-131:12
+	package
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:6:2-8:41
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:6:2-8:41
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:6:2-8:41
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:6:2-8:41
+INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:6:2-8:41
+	android:targetSdkVersion
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:11:22-81
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:14:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:15:22-70
+instrumentation
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:17:5-19:59
+	android:targetPackage
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:18:9-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:23:22-67
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:27:5-69
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:27:22-66
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:28:22-65
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:29:22-81
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:30:2-71
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:30:19-69
+application
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:31:5-129:19
+	android:label
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:34:9-41
+	android:icon
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:35:9-56
+uses-library#android.test.runner
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:36:9-60
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:36:23-57
+activity#com.guoshisp.mobilesafe.SplashActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:39:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:44:27-74
+activity#com.guoshisp.mobilesafe.MainActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:47:9-48:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:47:19-47
+activity#com.guoshisp.mobilesafe.SettingCenterActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:49:19-56
+activity#com.guoshisp.mobilesafe.LostProtectedActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:51:19-56
+activity#com.guoshisp.mobilesafe.Setup1Activity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:53:19-49
+activity#com.guoshisp.mobilesafe.Setup2Activity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:55:19-49
+activity#com.guoshisp.mobilesafe.Setup3Activity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:57:9-58:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:57:19-49
+activity#com.guoshisp.mobilesafe.Setup4Activity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:59:9-60:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:59:19-49
+activity#com.guoshisp.mobilesafe.SelectContactActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:61:9-62:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:61:19-56
+activity#com.guoshisp.mobilesafe.AtoolsActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:63:9-64:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:63:19-49
+activity#com.guoshisp.mobilesafe.NumberQueryActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:65:9-66:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:65:19-54
+activity#com.guoshisp.mobilesafe.DragViewActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:67:9-68:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:67:19-51
+activity#com.guoshisp.mobilesafe.CommonNumActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:69:9-70:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:69:19-52
+activity#com.guoshisp.mobilesafe.CallSmsSafeActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:71:9-72:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:71:19-54
+activity#com.guoshisp.mobilesafe.AppManagerActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:73:9-74:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:73:19-53
+activity#com.guoshisp.mobilesafe.AppLockActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:75:9-76:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:75:19-50
+activity#com.guoshisp.mobilesafe.EnterPwdActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:77:9-81:20
+	android:excludeFromRecents
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:79:13-46
+	android:launchMode
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:80:13-48
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:78:13-45
+activity#com.guoshisp.mobilesafe.TaskManagerActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:82:9-83:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:82:19-54
+activity#com.guoshisp.mobilesafe.TrafficInfoActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:84:9-85:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:84:19-54
+activity#com.guoshisp.mobilesafe.AntiVirusActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:86:10-89:20
+	android:screenOrientation
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:87:14-50
+	android:configChanges
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:88:17-67
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:86:20-53
+activity#com.guoshisp.mobilesafe.CleanCacheActivity
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:90:3-59
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:90:13-47
+service#com.guoshisp.mobilesafe.service.ShowCallLocationService
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:91:9-92:19
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:91:18-65
+service#com.guoshisp.mobilesafe.service.CallFirewallService
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:93:9-94:19
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:93:18-61
+service#com.guoshisp.mobilesafe.service.WatchDogService
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:95:9-96:19
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:95:18-57
+service#com.guoshisp.mobilesafe.service.WatchDogService1
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:97:9-98:19
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:97:18-58
+receiver#com.guoshisp.mobilesafe.receiver.OutCallReceiver
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:100:9-104:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:100:19-59
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:101:13-103:29
+	android:priority
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:101:28-51
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:102:17-82
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:102:25-79
+receiver#com.guoshisp.mobilesafe.receiver.BootCompleteReceiver
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:105:9-109:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:105:19-64
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:106:13-108:29
+	android:priority
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:106:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:107:25-76
+receiver#com.guoshisp.mobilesafe.receiver.SmsReceiver
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:110:9-114:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:110:19-55
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:111:13-113:29
+	android:priority
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:111:28-51
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:112:17-82
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:112:25-79
+receiver#com.guoshisp.mobilesafe.receiver.MyAdmin
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:115:9-123:20
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:115:19-51
+meta-data#android.app.device_admin
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:116:13-118:52
+	android:resource
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:118:17-49
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:117:17-56
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:120:13-122:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:121:17-82
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:121:25-79
+provider#com.guoshisp.mobilesafe.provider.AppLockDBProvider
+ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:125:9-128:20
+	android:authorities
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:127:13-55
+	android:name
+		ADDED from /Users/levent_j/hencoder/mobilesafe/app/src/main/AndroidManifest.xml:126:13-55
